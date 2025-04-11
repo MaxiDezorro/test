@@ -1,4 +1,0 @@
-Файл  номер 2
-Commit test
-Add line
-
